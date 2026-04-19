@@ -16,7 +16,6 @@
   text-transform: uppercase;
 }
 
-/* الألوان بناءً على الكلاسات اللي هنبعتها */
 .short { color: #e74c3c; }
 .good  { color: #2ecc71; }
 .long  { color: #f39c12; }

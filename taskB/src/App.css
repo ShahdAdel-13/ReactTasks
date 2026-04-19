@@ -16,7 +16,7 @@
   font-size: 16px;
   border: 2px solid #ddd;
   border-radius: 8px;
-  box-sizing: border-box; /* عشان الـ padding ميطلعهوش بره */
+  box-sizing: border-box; 
   transition: border-color 0.3s;
 }
 
