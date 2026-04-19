@@ -1,0 +1,22 @@
+.display-box {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.count-text {
+  font-size: 18px;
+  color: #333;
+}
+
+.status-msg {
+  font-weight: bold;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+/* الألوان بناءً على الكلاسات اللي هنبعتها */
+.short { color: #e74c3c; }
+.good  { color: #2ecc71; }
+.long  { color: #f39c12; }
